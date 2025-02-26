@@ -1,0 +1,3 @@
+cn.newness.imip.framework.mq.redis.config.NewnessRedisMQProducerAutoConfiguration
+cn.newness.imip.framework.mq.redis.config.NewnessRedisMQConsumerAutoConfiguration
+cn.newness.imip.framework.mq.rabbitmq.config.NewnessRabbitMQAutoConfiguration

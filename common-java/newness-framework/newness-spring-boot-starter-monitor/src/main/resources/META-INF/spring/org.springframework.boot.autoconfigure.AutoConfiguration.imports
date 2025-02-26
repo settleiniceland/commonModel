@@ -1,0 +1,2 @@
+cn.newness.imip.framework.tracer.config.NewnessTracerAutoConfiguration
+cn.newness.imip.framework.tracer.config.NewnessMetricsAutoConfiguration

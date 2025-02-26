@@ -1,0 +1,3 @@
+cn.newness.imip.framework.datasource.config.NewnessDataSourceAutoConfiguration
+cn.newness.imip.framework.mybatis.config.NewnessMybatisAutoConfiguration
+cn.newness.imip.framework.translate.config.NewnessTranslateAutoConfiguration

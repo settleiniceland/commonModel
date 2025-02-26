@@ -1,0 +1,3 @@
+cn.newness.imip.framework.security.config.NewnessSecurityAutoConfiguration
+cn.newness.imip.framework.security.config.NewnessWebSecurityConfigurerAdapter
+cn.newness.imip.framework.operatelog.config.NewnessOperateLogConfiguration

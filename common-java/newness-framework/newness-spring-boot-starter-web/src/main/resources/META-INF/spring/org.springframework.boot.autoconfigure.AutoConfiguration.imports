@@ -1,0 +1,6 @@
+cn.newness.imip.framework.apilog.config.NewnessApiLogAutoConfiguration
+cn.newness.imip.framework.jackson.config.NewnessJacksonAutoConfiguration
+cn.newness.imip.framework.swagger.config.NewnessSwaggerAutoConfiguration
+cn.newness.imip.framework.web.config.NewnessWebAutoConfiguration
+cn.newness.imip.framework.xss.config.NewnessXssAutoConfiguration
+cn.newness.imip.framework.banner.config.NewnessBannerAutoConfiguration

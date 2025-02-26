@@ -1,0 +1,2 @@
+cn.newness.imip.framework.quartz.config.NewnessQuartzAutoConfiguration
+cn.newness.imip.framework.quartz.config.NewnessAsyncAutoConfiguration

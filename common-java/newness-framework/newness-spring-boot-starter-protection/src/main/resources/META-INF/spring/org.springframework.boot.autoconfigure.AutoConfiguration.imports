@@ -1,0 +1,3 @@
+cn.newness.imip.framework.idempotent.config.NewnessIdempotentConfiguration
+cn.newness.imip.framework.lock4j.config.NewnessLock4jConfiguration
+cn.newness.imip.framework.ratelimiter.config.NewnessRateLimiterConfiguration

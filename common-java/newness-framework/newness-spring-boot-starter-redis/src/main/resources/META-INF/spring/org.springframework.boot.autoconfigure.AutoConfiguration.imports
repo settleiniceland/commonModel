@@ -1,0 +1,2 @@
+cn.newness.imip.framework.redis.config.NewnessRedisAutoConfiguration
+cn.newness.imip.framework.redis.config.NewnessCacheAutoConfiguration
